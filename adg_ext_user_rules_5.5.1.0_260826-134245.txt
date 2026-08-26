@@ -1,0 +1,27 @@
+!启用以下规则可使道客巴巴详情页仅显示文档内容
+doc88.com###boxright
+doc88.com###toolbar > div.mainpart.clearfix
+doc88.com###toolbar > div.mainpart.clearfix
+doc88.com###toolbar
+doc88.com###box1 > div.doctopic
+doc88.com###box1
+doc88.com###header
+doc88.com###boxleft > div.commonbox1:nth-child(5)
+doc88.com###discuss
+doc88.com##div.activelist:nth-child(11) > div.clearfix:last-child
+doc88.com###footer
+doc88.com###cart > a.txtlogo:last-child
+doc88.com###cart
+doc88.com###wx_read > a.txtlogo:last-child
+doc88.com###wx_read
+doc88.com###app_read > a.txtlogo:last-child
+doc88.com###app_read
+doc88.com###gotop > a.txtlogo:last-child
+doc88.com###gotop
+doc88.com##div.activelist:nth-child(11) > div.mainpart:first-child > div.columns:first-child
+doc88.com##div.activelist:nth-child(11) > div.mainpart:first-child > div.columns:nth-child(2)
+doc88.com##div.activelist:nth-child(11) > div.mainpart:first-child > div.columns:nth-child(3)
+doc88.com##div.activelist:nth-child(11) > div.mainpart:first-child > div.columns-ad:last-child > div.qrcode > img:first-child
+doc88.com##div.activelist:nth-child(11) > div.mainpart:first-child > div.columns-ad:last-child > div.qrcode > p:last-child
+doc88.com###readEndDiv
+doc88.com##div.activelist:nth-child(11) > div.mainpart:first-child > div.columns-ad:last-child > div.qrcode
